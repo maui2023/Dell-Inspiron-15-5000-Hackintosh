@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://github.com/zamkara/Lenovo-Thinkpad-X250-Hackintosh/raw/Opencore/screenshot/Banner.webp" align="center" alt="ROG-STRIX-G513QC" />
- <h2 align="center">Lenovo ThinkPad X250</h2>
- <p align="center">OpenCore Config for Lenovo ThinkPad X250 🍏</p>
+ <h2 align="center">Dell Inspiron 15 5000 Series</h2>
+<p align="center">OpenCore Config for Dell Inspiron 15 5000 Series 🍏</p>
 
 <br><br>
 
@@ -16,12 +16,9 @@ This EFI is based in [olarila](https://olarila.com/files/OPENCORE1/EFI.Opencore.
 ## Configuration  
 | **Category**   | **Details**                               |
 | -------------- | ------------------------------------------|
-| CPU            | Intel Core i5-5300U                       |
-| GPU            | Intel HD Graphics 5500                    |
-| Memory         | Kingston 8GB DDR3L                        |
-| Storage 1      | 256GB Midasforce M2.2242 SSD              |
-| Storage 2      | 512GB Toshiba HDD Sata                    |
-| Wifi           | Intel AC-7265 Dual Band + Bluetooth       |
+| CPU            | Intel Core i3-8130                        |
+| GPU            | Intel UHD Graphics 620                    |
+| Memory         | 16GB DDR4 2400                            |
 
 </p>
 
@@ -82,7 +79,8 @@ Download the MacOS installation at the following link, [`Download Here`](https:/
 - `CSM Support`: **No**.
 
 ## What's Working?
-- QE/CI Intel HD Graphics 5500 `BigSur` `Monterey` `Ventura`
+- TouchScreen
+- QE/CI Intel UHD Graphics 620 `BigSur` `Monterey` `Ventura`
 - Power Management `BigSur` `Monterey` `Ventura`
 - Sleep, Shutdown, Restart `BigSur` `Monterey` `Ventura`
 - Audio Speaker & Earphone `BigSur` `Monterey` `Ventura`
